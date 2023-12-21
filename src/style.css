@@ -1,0 +1,22 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  padding: 1rem;
+  font-family: 'Arial', sans-serif;
+  color: black;
+  background-color: white;
+
+  h2 {
+    color: green;
+    text-align: center;
+  }
+
+  p {
+    font-size: 1rem;
+    line-height: 1.5;
+    font-weight: bold;
+  }
+}

@@ -1,0 +1,144 @@
+{
+  "objects": [
+    {
+      "id": 1,
+      "name": "Object_1",
+      "description": "This is a description for Object_1.",
+      "properties": {
+        "color": "yellow",
+        "size": "medium",
+        "isActive": true,
+        "coordinates": {
+          "latitude": -56.689643,
+          "longitude": 139.462848
+        }
+      }
+    },
+    {
+      "id": 2,
+      "name": "Object_2",
+      "description": "This is a description for Object_2.",
+      "properties": {
+        "color": "blue",
+        "size": "medium",
+        "isActive": true,
+        "coordinates": {
+          "latitude": -19.549316,
+          "longitude": 54.735837
+        }
+      }
+    },
+    {
+      "id": 3,
+      "name": "Object_3",
+      "description": "This is a description for Object_3.",
+      "properties": {
+        "color": "blue",
+        "size": "medium",
+        "isActive": false,
+        "coordinates": {
+          "latitude": -27.876211,
+          "longitude": 105.373611
+        }
+      }
+    },
+    {
+      "id": 4,
+      "name": "Object_4",
+      "description": "This is a description for Object_4.",
+      "properties": {
+        "color": "blue",
+        "size": "large",
+        "isActive": true,
+        "coordinates": {
+          "latitude": 82.400416,
+          "longitude": -22.505746
+        }
+      }
+    },
+    {
+      "id": 5,
+      "name": "Object_5",
+      "description": "This is a description for Object_5.",
+      "properties": {
+        "color": "blue",
+        "size": "large",
+        "isActive": true,
+        "coordinates": {
+          "latitude": -71.509089,
+          "longitude": 118.265323
+        }
+      }
+    },
+    {
+      "id": 6,
+      "name": "Object_6",
+      "description": "This is a description for Object_6.",
+      "properties": {
+        "color": "purple",
+        "size": "small",
+        "isActive": false,
+        "coordinates": {
+          "latitude": -3.509994,
+          "longitude": -37.790019
+        }
+      }
+    },
+    {
+      "id": 7,
+      "name": "Object_7",
+      "description": "This is a description for Object_7.",
+      "properties": {
+        "color": "red",
+        "size": "small",
+        "isActive": false,
+        "coordinates": {
+          "latitude": 8.826318,
+          "longitude": 53.431649
+        }
+      }
+    },
+    {
+      "id": 8,
+      "name": "Object_8",
+      "description": "This is a description for Object_8.",
+      "properties": {
+        "color": "blue",
+        "size": "large",
+        "isActive": true,
+        "coordinates": {
+          "latitude": 71.512761,
+          "longitude": 23.542763
+        }
+      }
+    },
+    {
+      "id": 9,
+      "name": "Object_9",
+      "description": "This is a description for Object_9.",
+      "properties": {
+        "color": "blue",
+        "size": "large",
+        "isActive": false,
+        "coordinates": {
+          "latitude": -1.087395,
+          "longitude": -5.516062
+        }
+      }
+    },
+    {
+      "id": 10,
+      "name": "Object_10",
+      "description": "This is a description for Object_10.",
+      "properties": {
+        "color": "blue",
+        "size": "small",
+        "isActive": false,
+        "coordinates": {
+          "latitude": -35.826515,
+          "longitude": 82.22808
+        }
+      }
+    }
+  ]
+}
